@@ -1,1 +1,0 @@
-As a student user, the student must be able to see the course announcements in reverse chronological order when clicking on the 'Announcements' button.

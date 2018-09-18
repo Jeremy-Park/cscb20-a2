@@ -1,1 +1,0 @@
-As a student user, the student must be able to view information about who created the course website and a website link to the Faculty of Computer Science at UofT when the student scrolls down to the bottom of every page.

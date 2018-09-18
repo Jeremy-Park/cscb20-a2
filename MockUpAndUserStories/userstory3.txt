@@ -1,1 +1,0 @@
-As a student user, the student must always be able to see the navigation menu bar on top of every page for easy access, no matter how far the student scrolls down the page.

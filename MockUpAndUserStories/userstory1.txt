@@ -1,1 +1,0 @@
-As a student user, the student must be able to see a list to all the assignment handouts, solutions, topic, and weight after clicking on the 'Assignments' button.

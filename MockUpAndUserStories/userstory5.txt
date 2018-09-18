@@ -1,1 +1,0 @@
-As a student user, the student must be able to see information about the course, syllabus and instructor(s) when first entering the website, or when clicking on the 'CSCB20' button.

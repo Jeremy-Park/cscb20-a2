@@ -1,1 +1,0 @@
-As a student user, the student must be able to be redirected to the appropriate Anon Feedback Google form when clicking on the 'Anon Feedback' button.

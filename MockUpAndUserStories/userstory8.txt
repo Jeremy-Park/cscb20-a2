@@ -1,1 +1,0 @@
-As a student user, the student must be able to see a modified version of all pages of the website optimized for different screen sizes on mobile, tablet and desktop.
